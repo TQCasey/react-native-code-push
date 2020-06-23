@@ -47,7 +47,7 @@ static NSString * const PublicKeyKey = @"publicKey";
 
     if (!serverURL) {
         // serverURL = @"https://codepush.appcenter.ms/";
-        serverURL = @"http://106.53.29.180:3000/";
+        serverURL = @"https://update.ynqp168.com/";
     }
 
     _configDictionary = [NSMutableDictionary dictionary];
